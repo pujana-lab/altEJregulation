@@ -1,0 +1,1 @@
+{'task': 'OV_TP53_MUT', 'split': 'test', 'save_dir': './eval_results/EVAL_OV_TP53_MUT_s1_cv', 'models_dir': 'results/OV_TP53_MUT_s1', 'model_type': 'clam_mb', 'drop_out': 0.5, 'model_size': 'small'}

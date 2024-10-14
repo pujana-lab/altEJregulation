@@ -1,0 +1,1 @@
+{'task': 'PRAD_MYC_sign', 'split': 'test', 'save_dir': './eval_results/EVAL_PRAD_MYC_sign_s1_cv', 'models_dir': 'results/PRAD_MYC_sign_s1', 'model_type': 'clam_mb', 'drop_out': 0.5, 'model_size': 'small'}
